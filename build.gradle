@@ -22,7 +22,7 @@ repositories {
 
 def slf4jVersion = '1.7.22'
 def logbackVersion = "1.1.7"
-def groovyVersion = "2.6.0-alpha-1"
+def groovyVersion = "3.0.0-alpha-1"
 def junitVersion = "4.12"
 
 dependencies {
